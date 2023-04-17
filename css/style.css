@@ -1,0 +1,29 @@
+body{
+    background-color: grey;
+    font-family: 'Tilt Prism', cursive;
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(209, 98, 98);
+    color: rebeccapurple;
+    text-align: center;
+    margin: 40px;
+}
+
+img{
+    width: 700px;
+}
+
+h2{
+    background-color: green;
+}
+
+h3{
+    color: aqua;
+}
+
+p{
+    background-color: rgb(146, 112, 224);
+    color: rgb(0, 0, 0);
+}
